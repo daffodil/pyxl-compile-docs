@@ -1,0 +1,9 @@
+[submodule "xlwt"]
+	path = xlwt
+	url = git://github.com/pedromorgan/xlwt.git
+[submodule "xlrd"]
+	path = xlrd
+	url = https://github.com/pedromorgan/xlrd
+[submodule "xlutils"]
+	path = xlutils
+	url = https://github.com/pedromorgan/xlutils
